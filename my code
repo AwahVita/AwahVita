@@ -1,0 +1,4 @@
+//My First Main Code
+var x = 15;
+var y = 5;
+var result = x+y;
